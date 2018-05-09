@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">ҰБТ күні</string>
+    <string name="title_tests">Тәжірибе</string>
+    <string name="title_dates">Күндер</string>
+    <string name="title_notifications">Хабарламалар</string>
+    <string name="settings">Параметрлер</string>
+    <string name="title_activity_settings">Параметрлер</string>
+    <string name="dialog_title">Ғасырды таңдаңыз</string>
+    <string name="ok_button">Ок</string>
+    <string name="cancel_button">Болдырмау</string>
+    <string name="type_pick_title">Түрін таңдаңыз</string>
+    <string name="mode_switch">Коммутация режимі</string>
+    <string name="true_button">Шындық</string>
+    <string name="false_button">Жалған</string>
+
+    <string name="check_button">Тексеріңіз</string>
+    <string name="sotr_text">Хронологиялық ретпен реттеңіз</string>
+
+    <string name="reset_button">Тағы да</string>
+    <string name="exit_button">Шығу</string>
+
+    <string name="current_result">Ағымдағы нәтиже: </string>
+    <string name="best_result">Бұл сеанс үшін ең жақсы нәтиже: </string>
+    <string name="cur_mark">Ағымдағы рейтингіңіз: </string>
+
+    <string name="mark_2">Күлкі</string>
+    <string name="mark_3">Қанағаттанарлық</string>
+    <string name="mark_4">Жақсы</string>
+    <string name="mark_5">Өте жақсы</string>
+    <string name="mark_20">Тамаша</string>
+
+    <string-array name="tests">
+        <item>Карталар</item>
+        <item>DIVIDER</item>
+        <item>Сынақ</item>
+        <item>Сынақ</item>
+        <item>DIVIDER</item>
+        <item>Шындық/Жалған</item>
+        <item>Шындық/Жалған</item>
+        <item>DIVIDER</item>
+        <item>Сұрыптау</item>
+        <item>Сұрыптау</item>
+        <!-- <item>Соответствие</item> -->
+        <!-- <item>Множественный выбор</item> -->
+    </string-array>
+    <string-array name="tests_description">
+        <item>Тарихы бар карталар</item>
+        <item>DIVIDER</item>
+        <item>Шексіз сынақ</item>
+        <item>20 сұрақ</item>
+        <item>DIVIDER</item>
+        <item>Түбегейлі тестілеу</item>
+        <item>20 сұрақ</item>
+        <item>DIVIDER</item>
+        <item>Соңы жоқ сұрыптау</item>
+        <item>20 сұрақ</item>
+    </string-array>
+    <string-array name="centuries">
+        <item>Дейін XVI</item>
+        <item>XVI - XVIII</item>
+        <item>XIX 1 бөлігі</item>
+        <item>XIX 2 бөлігі</item>
+        <item>1900 — 1918</item>
+        <item>1919 — 1931</item>
+        <item>1932 — 1954</item>
+        <item>1955 — 1990</item>
+        <item>1991 — 2004</item>
+        <item>Барлық күндер</item>
+    </string-array>
+    <string-array name="centuries_easy">
+        <item>Дейін XVI</item>
+        <item>XVII — XVIII</item>
+        <item>XIX</item>
+        <item>1900 — 1924</item>
+        <item>1925 — 1950</item>
+        <item>1951 — 2001</item>
+        <item>Барлық күндер</item>
+    </string-array>
+    <string-array name="pick_type">
+        <item>Тек күндер</item>
+        <item>Оқиғалар ғана</item>
+        <item>Аралас</item>
+    </string-array>
+
+</resources>
